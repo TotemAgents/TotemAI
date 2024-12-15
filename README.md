@@ -18,7 +18,7 @@ Totem AI is an AI-driven agent generator that enables users to create high-quali
 2. Run the AI generation models.
 3. Customize the output based on user input.
 
-For more details, refer to the [docs/usage.md](docs/usage.md).
+For more details, refer to the [docs/](docs/).
 
 ---
 
@@ -30,10 +30,10 @@ To run Totem AI locally, follow the instructions in the [Setup Section](#setup).
 SUMMARY_MD = """
 # Summary
 
-* [Introduction](README.md)
-* [How It Works](usage.md)
-* [Architecture](architecture.md)
-* [API Reference](api_reference.md)
+* [Introduction]
+* [How It Works]
+* [Architecture]
+* [API Reference]
 """
 
 # 3. docs/architecture.md
@@ -50,7 +50,7 @@ The AI models are modular and scalable to adapt to high user demand.
 
 """
 
-# 4. docs/usage.md
+# 4. /docs
 USAGE_MD = """
 # How to Use Totem AI
 
