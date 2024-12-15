@@ -1,7 +1,7 @@
 from PIL import Image, ImageDraw
 
-class AvatarGenerator:
-    def create_avatar(self, theme, gender, style):
+class AgentGenerator:
+    def create_agent(self, theme, gender, style):
         # Placeholder logic for generating an avatar
         print(f"Generating avatar with theme: {theme}, gender: {gender}, style: {style}")
         image = Image.new("RGB", (512, 512), color=(255, 255, 255))
