@@ -1,6 +1,7 @@
 # Totem AI - AI Agent Generator
 
-Totem AI is an AI-driven agent generator that enables users to create high-quality, unique agents through advanced machine learning algorithms. This repository contains the core codebase and supporting documentation.
+AI-Driven Agent Generation Platform
+Totem AI is a cutting-edge AI framework for generating personalized, high-quality digital agents. Leveraging advanced machine learning models and user-driven inputs, Totem AI empowers individuals, developers, and businesses to create dynamic agents for gaming, branding, metaverse experiences, and more.
 
 ---
 
