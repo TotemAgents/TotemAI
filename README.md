@@ -26,9 +26,6 @@ For more details, refer to the [docs/](docs/).
 To run Totem AI locally, follow the instructions in the [Setup Section](#setup).
 
 """
-
-# 2. docs/SUMMARY.md
-SUMMARY_MD = """
 # Summary
 
 * [Introduction]
